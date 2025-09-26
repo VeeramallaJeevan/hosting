@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("CGPA Calculator")
+st.title("HELLO PRASAD THIS IS A CGPA Calculator")
 
 # Input number of semesters
 num_sems = st.number_input("Enter number of semesters", min_value=1, step=1)
